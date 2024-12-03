@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Predictions</title>
+</head>
+<body>
+    <h1>Predictions for Selected Industry</h1>
+    <div>
+        {{ graph_html | safe }}
+    </div>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Year</th>
+                <th>Business Number</th>
+                <th>Employment</th>
+                <th>Turnover (millions)</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for row in predictions %}
+            <tr>
+                <td>{{ row.Year }}</td>
+                <td>{{ row['Business Number'] }}</td>
+                <td>{{ row.Employment }}</td>
+                <td>{{ row['Turnover (millions)'] }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>

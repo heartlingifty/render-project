@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ds-project-440913",
+  "private_key_id": "993d0814d106822d9d4f33b5a8c12a90710cd543",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDq2NYy6mlzmJHQ\n50kCs2DjeqCACSuTzFbV+RgsQHk2UQJpkYLZ9z5oo6kGV+iNG2kpzgrdTW8jIxnz\nD5Ey8nvOPJ+vHzDwKN5MbXoBvynn/Eig4CCnnIBMDH9arRQXB3kZYpk8EKeLlbqw\nTpvFkjb4ST7yg1Bm9cezfpn/p/Xoes9Oh2DBw6PscHcptVUmOWhflAPEtIVjHKME\nYDSEJ8CoouZsGGyTVKtFlEt/z/E2KXNyLEk+Hk9yTCuczIeGJNR0kYPlwrxW2NAW\nwOcnVT8X23ITi4NXaEQfBtGO+d89hYJHvbVbBrV/X3VEVEq0wO5j+Hqhi+Xqnaod\nAlwUiYKZAgMBAAECggEAJxDMatpTEdNUmD1NCBm6OYT1y26bFOImJMBjrMLJ1wb5\nQYHe1C68bzAgRwmbCdQANZ/Mb1046k2lvKi/hMvQ2/D6OCmWXLDTr797TuyThj9R\nfo9h5zfRoLTof3cwkxcfZiFgb50unbnZvQfKgj5NDhazFajR2Fq0rk9WQzCXp6Tq\nlkj/Su0rraYPBg7H8po1jDuBpFDFDhfSyKnbiyybr29IwtQk0lXSOewTTetmXwVE\n/2E572Ux6Z2/Pf/yx31AmgPp4Hlw8V5GiOLRHhq8Ept3jFG1YTm38jpMO6b0TB80\n/zOi5gnm8hPIWPf/a+gSjlgMHdQUM51RXl6SStT+HQKBgQD9WJMNLI3NMotw2OcJ\nH2/xxg9QrwPl02LafT/TQpfei520mG54PBiIlEUHDBIoszMYb8xcuAsSTyIWeck+\nV0aj6+T8GP+Stsdtjvwzobbhoqi9966Upi6ly28V+19C2C8inOrB/8ztfQzH5oqD\nigY4hEdvivTVBLZ2EP6vn3dBtQKBgQDtTqbNnH2gyonDCqCQkxdN2+VqQI2qs4KO\nMRtcjZC7X0VbGzkbHd6n/zMkTgMPutppM2+h1bsCCVL1BkoPtJCK7GFRk1ocHxdY\niOYlZWp286T0L48MUSTtJw7vv/s+EiOPi1e313/memIqaRS+E1jIl1532CbIrFXd\nZematPLb1QKBgQDI4XuwPXyukP5p20LORAQiZBZutmdTy5odfqSmIa6EApZoxVkK\nszQMz+wv201mwjiojrUva6szuFViFu0QJmnXvksR7cxwi8dzwqWNVxPIs44zGvpt\n2ZsxUS5i8q+lM/+j5WJrsyXNxZLlypJYHJA0LgbqlfbuFU+MLIuVu8725QKBgQDq\nwv5dNk1J/lRe8Wp63CkXy0yf2pDLqJ6lkIsi+qGN2+g/AyVxYBFfXSX46nw42X8s\nx8fN8CT7FMJOyBQIiXbdGJAGJaHlZBSyb2xO3o9+cfZj45C+fJ/tRNCP+frRIxyu\n6wiyRKyxE619i0sL5xPUDXtVUC6+I08moaWCeTQwqQKBgDRPulIogyGORL4Hq+KO\nhm49CXwRJ6AzjBUzqCPQ2sR+9fzzJj5YD/NckWyausNfSL/U4aJuFFOQ+92nVo8u\nR6fyOGClxuIYN8WBHrvs2vTAaQ3aJKnGE8CzgDDPHORP+Gtoz3xktMiZkhcmukM7\nbcjNXOI8sTdXyFHXBaQPkXmA\n-----END PRIVATE KEY-----\n",
+  "client_email": "gifty-tharmaraj@ds-project-440913.iam.gserviceaccount.com",
+  "client_id": "101002319789526658548",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gifty-tharmaraj%40ds-project-440913.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
